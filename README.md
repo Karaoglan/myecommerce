@@ -1,4 +1,4 @@
-# Trendyol Case MyEcommerce
+# MyEcommerce
 > Sample ecommerce case project
 
 ## General info
